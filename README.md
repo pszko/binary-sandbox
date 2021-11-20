@@ -36,3 +36,7 @@ scripts and articles developed to support a sandbox environment of sundry comput
 - computing histoical VaR
 - url: cs
 
+### VaR parametric estimation approaches in Python
+- computing VaR using parametic methods
+- url: cs
+
